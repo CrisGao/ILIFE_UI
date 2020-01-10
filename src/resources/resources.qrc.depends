@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/View1.qml</file>
+        <file>qml/View2.qml</file>
+        <file>qml/View3.qml</file>
+        <file>qml/MainForm.qml</file>
+        <file>qml/SplashScreen.qml</file>
+        <file>qml/Telecontrol.qml</file>
+        <file>qml/ControlMap.qml</file>
+        <file>qml/ConnectSub.qml</file>
+        <file>qml/LoadMap.qml</file>
+        <file>qml/AlarmSub.qml</file>
+        <file>qml/AlarmDelegate.qml</file>
+        <file>qml/AlarmDialog.qml</file>
+        <file>qml/AlarmModel.qml</file>
+        <file>qml/TumblerDelegate.qml</file>
+        <file>qml/HistorySub.qml</file>
+        <file>qml/DeviceInfoSub.qml</file>
+        <file>qml/FirmwareUpdateSub.qml</file>
+        <file>qml/QmlCircularProgress.qml</file>
+        <file>images/Font/fontawesome-webfont.ttf</file>
+        <file>images/clock.svg</file>
+        <file>images/clipboard-list.svg</file>
+        <file>images/arrow-alt-circle-up.svg</file>
+        <file>images/bug.svg</file>
+        <file>images/sync-alt.svg</file>
+        <file>images/map.png</file>
+        <file>images/ilife.png</file>
+        <file>images/login.png</file>
+        <file>images/backgroundmap.png</file>
+        <file>images/pic/full.ico</file>
+        <file>images/pic/half.ico</file>
+        <file>images/pic/none.ico</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,25 @@
+#only use directory src/ and simulation/
+atomic_configure/
+build/
+catkin/
+catkin_generated/
+cmake/
+CMakeFiles/
+devel/
+gtest/
+CATKIN_IGNORE
+CMakeCache.txt
+cmake_install.cmake
+CTestConfiguration.ini
+CTestCustom.cmake
+CTestTestfile.cmake
+ILIFE_UI.workspace
+ILIFE_UI.workspace.user
+Makefile
+qrc_images.cpp
+qrc_resources.cpp
+ui_main_window.h
+ui_mapp.h
+ui_romap.h
+.catkin_workspace
+simulation/floor_1.bag

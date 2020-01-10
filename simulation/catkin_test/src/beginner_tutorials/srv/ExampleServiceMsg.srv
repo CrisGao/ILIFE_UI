@@ -1,0 +1,15 @@
+bool require_battery
+bool start_or_stop
+uint8 voice
+uint8 suction
+uint8 pressure
+uint8 brush
+
+---
+uint8 battery_value
+bool had_start
+bool had_voice
+bool had_suction
+bool had_pressure
+bool had_brush
+
